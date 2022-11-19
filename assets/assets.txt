@@ -1,0 +1,11 @@
+img end end.png
+img green green.png
+img menu menu.png
+img red red.png
+img start startscreen.png
+img white white.png
+mus awe awesomeness.ogg
+mus techno technogeek.ogg
+snd eat eat.wav
+snd fail fail.wav
+fnt font sansation.ttf

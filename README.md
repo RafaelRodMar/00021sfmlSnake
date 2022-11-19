@@ -1,2 +1,2 @@
-# 00021sfmlSnake
-Snake made with SFML.
+# snake
+Snake game
